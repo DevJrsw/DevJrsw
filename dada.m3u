@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:0,play.html?id=vr0bZPdDJH2Zdizi2256050435555968
 #EXTVLCOPT:network-caching=1000
-http://192.168.0.190:5080/ftft/play.html?id=vr0bZPdDJH2Zdizi2256050435555968&playOrder=hls
+http://192.168.0.190:5080/ftft/streams/vr0bZPdDJH2Zdizi2256050435555968.m3u8
 #EXTINF:0,play.html?id=zujCuUuH5vaGmx342257304681056229
 #EXTVLCOPT:network-caching=1000
-http://192.168.0.190:5080/ftft/play.html?id=zujCuUuH5vaGmx342257304681056229&playOrder=hls
+http://192.168.0.190:5080/ftft/streams/zujCuUuH5vaGmx342257304681056229.m3u8
